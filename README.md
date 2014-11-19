@@ -6,4 +6,4 @@
 
 Spalte 1 | Spalte 2 |
 --- | --- |
-**Zeile 1** | *Zeile 1* |
+Zeile 1 | Zeile 1 |
