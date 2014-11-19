@@ -4,6 +4,7 @@
 * Aufgabe 2
 * Aufgabe 3
 
-Spalte 1 | Spalte 2 |
+Kursiv | Fett |
 --- | --- |
-Zeile 1 | Zeile 1 |
+*kursive Schreibweise* | **fette Schreibweise** |
+
