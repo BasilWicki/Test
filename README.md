@@ -6,5 +6,4 @@
 
 Spalte 1 | Spalte 2 |
 --- | --- |
-*Still* | `renders` |
-1 | 2 |
+**Zeile 1** | `Zeile 1` |
