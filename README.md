@@ -4,7 +4,7 @@
 * Aufgabe 2
 * Aufgabe 3
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Spalte 1 | Spalte 2 |
+--- | --- |
+*Still* | `renders` |
+1 | 2 |
