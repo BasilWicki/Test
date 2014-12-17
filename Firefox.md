@@ -1,6 +1,6 @@
 # Firefox
 
-![alt text](http://www.natur-server.de/Bilder/MZ/003/mz00273-kleines-seifenkraut.jpg "Bild 200px jpg")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Mozilla Firefox (amerikanisch-englische Aussprache [moʊˈzɪlə ˈfaɪɹfɑks]),
 auch kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes.
