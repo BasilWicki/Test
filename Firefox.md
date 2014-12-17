@@ -12,4 +12,4 @@ auch kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes.
 
 ### Links
 http://de.wikipedia.org/wiki/Mozilla_Firefox
-http://www.mozilla.org
+  http://www.mozilla.org
