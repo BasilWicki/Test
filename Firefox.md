@@ -1,8 +1,7 @@
 # Firefox
 ![alt text]
 
-(http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_log
-o_2013.svg/200px-Mozilla_Firefox_logo_2013.svg.png "Firefox Logo 200px png")
+(http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dominique_Gisin_Altenmarkt-Zauchensee_2011.jpg/800px-Dominique_Gisin_Altenmarkt-Zauchensee_2011.jpg "Firefox Logo 200px png")
 
 Mozilla Firefox (amerikanisch-englische Aussprache [moʊˈzɪlə ˈfaɪɹfɑks]),
 auch kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes.
